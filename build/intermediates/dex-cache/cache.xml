@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/910bb71ae2e63ae54e29ca4984ffb6d3b8c80c57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_637fac1bf5507f7faea7d17746935e58a7622a98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/52f050177d5198d5dbae37a336cd57a8e6fa4648/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80095ed30264eb0c2c26d613496343081612e77f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/a9b9d3873ad399aacbbc49a080a8677ca8390e06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07c99684b2de0089002d0ada667fc09e54b7641e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/035988b770730945d69ad1d1d4d0e3cc65be75aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_133ccb427045ddb0d178eabd472da3995f104cc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f271150f609646bf868ef5c163e20d15046c2814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/289263ea0358de058dc87e867ca5214fdcf34cb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99d9dff9b432b334575c2bbd7db0db39050679e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/4ade4ca6806c0239c2d9b1f362873b24d2122b54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3df6de5e07f1f2a55f56c81ab789338b9d100330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8452c640c3f816d0d091f256f46eb117783672bd">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fac988d0cd1873780060e9c1f4ebff0abbd0b37c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/f8c4ad058ebcc0e44c6098f9029184001b8007f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da5a4d13cec4e51df1ab9cc7110fcd105a217b7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.4.0/ee860e7723eef61080e34f5b098f7ee22b356770/realm-annotations-3.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee860e7723eef61080e34f5b098f7ee22b356770">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-3.4.0_5b77ddff0b0ba4b113644a5db866f99ef2d4feb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/e6e4854aede969de576cce0bbce5b1e995d00d96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb2b5b5f077faa23a37b8e136be85d9f6c7f2e8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/9073585e14f9b0225bb272a4eb3cdcad80ba6b30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d72da28314caea27eb497bdb2c969a8a0abc8de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/3e23bd6e7fc5d053f7eaca842868b217130df0e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d6db99925625464a80795853695f9cd93df93f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/4fe60942cf832df2723f3a11447e1c7f77fdb1ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f47d589c955a52925bee925a82cde1cddeb825d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/a9b48f699cdb4d7ef020426289ad7c0968001391/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf357569c8b87de0eb90e46cd591e417e6588c84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/49fae66c1200c83b96f707dae763001f1b6d1d12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1dd8e07e087a2f3fb665c1b3f93c0cffe9f1276/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_2d40b52349329ad6a0d738a54c6dc786e446601b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masaya3/.android/build-cache/cb7a2b373da7f36321d51ba1325db3612db968f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cd9bc76e438f6e38bf6f8ba72821552fe5afbe23">
+        <dex dex="/Users/masaya3/work/AndroidStudioProjects/Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db42542e1795270acdce81b96777c0eda8713654/classes.dex" />
+    </item>
+
+</items>

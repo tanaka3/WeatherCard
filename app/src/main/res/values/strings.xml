@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ウェザーマニア</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="get_comment">天気をカード化する</string>
+    <string name="image_path">card</string>
+    <string name="card_file">%1$04d.png</string>
+
+    <string name="card_title">カード一覧</string>
+    <string name="trade_title">交換カード一覧</string>
+    <string name="get_title">天気のカード化</string>
+
+    <string name="card_num">%1$03d/%2$03d</string>
+    <string name="get_num">今日は、あと%1d回</string>
+    <string name="pp_format">P.P %d</string>
+
+
+    <string name="aitalk_url">http://webapi.aitalk.jp/webapi/v2/ttsget.php</string>
+    <string name="aitalk_id">aodhack2017</string>
+    <string name="aitalk_pass">AQPkXPPN</string>
+
+    <string-array name="sun_detail">
+        <item>晴耕雨読</item>
+        <item>日本晴れ</item>
+    </string-array>
+    <string-array name="rain_detail">
+        <item>小夜時雨</item>
+        <item>ゲリラ豪雨</item>
+    </string-array>
+    <string-array name="cloud_detail">
+        <item>朝曇りは晴れ</item>
+        <item>朝曇りは姑の笑顔</item>
+    </string-array>
+
+</resources>
